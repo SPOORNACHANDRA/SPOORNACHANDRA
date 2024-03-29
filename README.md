@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is S Poorna Chandra   and from India<br>I'm Looking for DevOps/Cloud technology related roles.<br>DevOps Enthusiast  || LearningInPublic || BuildingInPublic<br><br>Skills: -> HardSkills*: Linux / Git and GitHub / Docker / Ansible / Terraform / Jenkins / GitHub Actions / Kubernetes / AWS / Grafana / ELK / Prometheus / YAML && SoftSkills: TeamPlayer / Communication / Leadership / Adaptability.<br><br>🔭 I’m working on DevOps and AWS Projects.<br>🌱 I’m currently learning Docker and Kubernetes<br>👯 I’m looking to collaborate on DevOps-related Projects.<br>🤔 I’m looking for help with my Coding Journey.<br>💬 Ask me about DevOps and AWS Cloud and Resource for learning.<br>📫 How to reach me: Poornanaidu1@gmail.com</p>
+<p align="left">My name is S Poorna Chandra from India<br>I'm Looking for DevOps/Cloud technology related roles.<br>DevOps Enthusiast  || LearningInPublic || BuildingInPublic<br><br>Skills: -> HardSkills*: Linux / Git and GitHub / Docker / Ansible / Terraform / Jenkins / GitHub Actions / Kubernetes / AWS / Grafana / ELK / Prometheus / YAML && SoftSkills: TeamPlayer / Communication / Leadership / Adaptability.<br><br>🔭 I’m working on DevOps and AWS Projects.<br>🌱 I’m currently learning Docker and Kubernetes<br>👯 I’m looking to collaborate on DevOps-related Projects.<br>🤔 I’m looking for help with my Coding Journey.<br>💬 Ask me about DevOps and AWS Cloud and Resource for learning.<br>📫 How to reach me: Poornanaidu1@gmail.com</p>
 
 ###
 
